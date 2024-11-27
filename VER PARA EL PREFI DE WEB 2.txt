@@ -1,0 +1,22 @@
+-1)Operadores logicos con SQL
+-2)Templates/Templates engine
+-3)Seguridad
+-4)Unidad 7
+
+2)-Se pueden requerir templates dentro de otros
+-En los phtml(templates) va la logica y en la view solo la vista
+-Cuando abrimos una estructura de control en phtml, hay q cerrarla
+por ej: if/endif--for/endfor
+-Modificadores <li><?=strtoupper(substr($title,0,20))?></li>
+-Template engine(OPCIONAL DICE LAS FIRIMINAS)
+
+3)Api rest-respuestas:
+1xx: Informational
+2xx: Success
+3xx: Redirection
+4xx: Client Error
+5xx: Server Error
+
+AJAX para CSR
+
+¿Entra api auth?

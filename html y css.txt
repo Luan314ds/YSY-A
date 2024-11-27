@@ -1,0 +1,27 @@
+h1, p{
+    color: white;
+    /* Mayuscula, minuscula, capitalizado */
+    text-transform: uppercase;
+
+    text-align: center;
+
+}
+
+ol{
+    color: white;
+    font-size: 30px;
+    list-style-type: circle;
+    /* list-style-image: url(maxresdefault.jpg); */
+    
+    
+}
+
+.cbum{
+    /* Especifica la cursiva */
+    font-style: oblique;
+}
+
+.cabra{
+    /* Decora el texto */
+    text-decoration: line-through;
+}

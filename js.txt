@@ -1,0 +1,21 @@
+JS:
+"use strict";
+
+
+let boton = document.querySelector('#boton');
+boton.addEventListener("click", COLOR);
+
+function COLOR() {
+    let mascota = document.querySelector('#mascota');
+
+    mascota.classList.toggle("destacado");
+}
+
+CSS:
+.destacado{
+    color: red;
+}
+
+HTML:
+<button id="boton">holas</button>
+        <h1 id="mascota" class="h1-show">Proximos shows</h1>

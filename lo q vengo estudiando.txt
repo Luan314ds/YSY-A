@@ -1,0 +1,18 @@
+-Pseudo clases y pseudo elementos
+-Herencia y cascada
+-AddEventListener en javascript
+-Arreglos, Funciones anonimas, parametros, evitar variables y funciones globales
+-document.addEventListener("DOMContentLoaded",
+  iniciarPagina);
+
+function iniciarPagina(){
+   // código de inicialización de eventos
+}
+-Piedra, papel y tijera | contador de pasos | sorteo | bomba
+-Diferencia entre article y section
+-CACHE EN SELECTORES
+-THIS
+-let alcance de bloque
+var alcance de función
+
+
